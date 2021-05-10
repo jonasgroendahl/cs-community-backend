@@ -12,7 +12,7 @@
     "start": "nodemon dist/index.js",
     "generate": "npx prisma generate",
     "migrate": "npx prisma migrate dev",
-    "build": "tsc",
+    "build": "tsc"
   },
   "dependencies": {
     "@prisma/client": "2.21.2",
